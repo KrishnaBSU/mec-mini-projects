@@ -1,0 +1,12 @@
+How can we access the tweet data from twitter? Is there an API which can provide this data?
+Will the data be provided periodically or is it a one time data dump?
+Where can we store the data? Is it in cloud or local data bases?
+If cloud, which cloud is used and what kind of tools can be used to access this data?
+How fast(HW capabilities where the learning will happen) will we be able to process this data? 
+WHat is the output of the tweet reactions we are looking for? Is the requirement to classify the reactions to happy, sad etc?
+Are the tweets need to be analyzed only in English or other languages too?
+What kind of accuracy are we looking for from the model?
+WHat kind of events are we looking for analyzing the tweet reactions?
+Where will the output of the model go to? Does this need to be fed to a different system?
+What is the infrastructure to deploy the model to production?
+Once in production, how often can we make changes to the model?
